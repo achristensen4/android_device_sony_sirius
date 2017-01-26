@@ -1,5 +1,5 @@
 # Make keys in CWM repeatable
-ro.cwm.enable_key_repeat=true
+ro.cwm.enable_key_repeat=false
 
 # Graphics
 ro.sf.lcd_density=480
